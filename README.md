@@ -15,8 +15,11 @@ dotnet build
 ```
 ## Start
 
+Default running command:
 ```bash
 dotnet run
-    or
+```
+Including hot reload:
+```bash
 dotnet watch run
 ```
